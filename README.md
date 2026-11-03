@@ -4,17 +4,15 @@ This folder contains 45 numbered assignments for a first-semester BCA Artificial
 
 ## Student details
 
-Name: Manan Verma
+Name: Rachit gupta
 
 Course: BCA Artificial Intelligence
 
 University: Invertis University, Bareilly
 
-City: Badaun, Uttar Pradesh
+City: Jalalabad, Uttar Pradesh
 
-Email: mananverma704@gmail.com
-
-GitHub: https://github.com/vermamanan704-cmyk
+Email: grachit167@gmail.com
 
 ## Open the project
 
